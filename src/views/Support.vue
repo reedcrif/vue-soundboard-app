@@ -1,5 +1,8 @@
 <template>
   <div class="about">
-    <h1>This is the support page</h1>
+    <h1>Support</h1>
+    <pre>
+      There is no support :)
+    </pre>
   </div>
 </template>
